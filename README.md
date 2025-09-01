@@ -44,8 +44,8 @@ DAX (Data Analysis Expressions) – for calculated measures and KPIs
 
 📥 How to Use
 
-Download the .pbix file from this repository.
+1. Download the .pbix file from this repository.
 
-Open it in Power BI Desktop.
+2. Open it in Power BI Desktop.
 
-Interact with slicers and filters to explore insights.
+3. Interact with slicers and filters to explore insights.
